@@ -1,4 +1,4 @@
-Hello, I'm Ibtesam 👋
+# Hello, I'm Ibtesam 👋
 
 <a href="https://linkedin.com/in/md-ibtesam/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -6,13 +6,13 @@ I'm transitioning into the IT industry, with a focus on IT Support, Technical Su
 
 With a background in Civil Engineering, customer service, and cybersecurity training, I bring analytical problem-solving skills, a customer-focused mindset, and a commitment to continuous learning.
 
-🎯 Career Objective
+## 🎯 Career Objective
 
 I'm pursuing an entry-level opportunity in IT Support, Help Desk, or Technical Support where I can apply my troubleshooting skills, develop practical IT experience, and contribute to reliable technology operations.
 
 My technical interests include Windows support, Linux administration, networking, system troubleshooting, and cybersecurity. I'm building hands-on experience through practical labs and documenting my work in this portfolio.
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 |Area |Skills and Technologies|
 |-----|-----------------------|
@@ -26,7 +26,7 @@ My technical interests include Windows support, Linux administration, networking
 | Tools | VMware Workstation, Git, GitHub, Wireshark, tcpdump  |
 
 
-💻 IT Support & Networking Labs
+## 💻 IT Support & Networking Labs
 
 These practical labs demonstrate my hands-on learning in system administration, networking, and troubleshooting.
 
