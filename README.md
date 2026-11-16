@@ -51,8 +51,8 @@ My previous cybersecurity projects helped establish my foundation in security op
 
 ## 📚 Certifications
 
-<img src="[https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white](https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?\&style=for-the-badge\&logo=CompTIA\&logoColor=white)" /> 
-<img src="[https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white](https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge\&logo=Google\&logoColor=white)" />
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
 
 ## 🌱 Currently Developing
 
@@ -91,8 +91,7 @@ My previous cybersecurity projects helped establish my foundation in security op
 ## 🤝 Let's Connect
 
 I'm interested in connecting with IT professionals, learning from the technology community, and exploring entry-level opportunities in IT Support, Help Desk, and Technical Support.
-
-<a href="[https://linkedin.com/in/md-ibtesam/](https://linkedin.com/in/md-ibtesam/)"><img src="[https://img.shields.io/badge/-Connect%20on%20LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0072b1?\&style=for-the-badge\&logo=linkedin\&logoColor=white)" /></a>
+<a href="https://linkedin.com/in/md-ibtesam/"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **ibtesam5d/ibtesam5d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
