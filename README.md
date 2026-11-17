@@ -33,10 +33,10 @@ These practical labs demonstrate my hands-on learning in system administration, 
 | Lab                                                                                  | Focus Areas             | Skills Demonstrated                                       |
 | ------------------------------------------------------------------------------------ | ----------------------- | --------------------------------------------------------- |
 | [Lab 01 – DNS Troubleshooting and SSH Remote Administration](https://github.com/ibtesam5d/IT-Support-Portfolio/blob/main/01-Linux-DNS-SSH/lab-01-dns-and-ssh.md) | Linux, DNS, SSH         | DNS diagnostics, packet inspection, remote access         |
-| [Lab 02 – Windows Network Diagnostics](YOUR-IT-PORTFOLIO-LINK)                       | Windows networking      | PowerShell, DNS, TCP/IP, routing diagnostics              |
-| [Lab 03 – Windows System Monitoring](YOUR-IT-PORTFOLIO-LINK)                         | Windows support         | Resource monitoring, process analysis, service management |
-| [Lab 04 – Linux Firewall and SSH Security](YOUR-IT-PORTFOLIO-LINK)                   | Linux security          | UFW, firewall rules, SSH keys, authentication hardening   |
-| [Lab 05 – Windows IT Support and Troubleshooting](YOUR-IT-PORTFOLIO-LINK)            | Windows troubleshooting | Event Viewer, PowerShell, services, network diagnostics   |
+| [Lab 02 – Windows Network Diagnostics](https://github.com/ibtesam5d/IT-Support-Portfolio/blob/main/02-Windows-Networking-Diagnostics/lab-02-windows-network-troubleshooting.md)                      | Windows networking      | PowerShell, DNS, TCP/IP, routing diagnostics              |
+| [Lab 03 – Windows System Monitoring](https://github.com/ibtesam5d/IT-Support-Portfolio/blob/main/03-Windows-System-Monitoring/lab-03-windows-support-fundamentals.md)                         | Windows support         | Resource monitoring, process analysis, service management |
+| [Lab 04 – Linux Firewall and SSH Security](https://github.com/ibtesam5d/IT-Support-Portfolio/blob/main/04-Linux-Firewall-SSH-Security/lab-04-linux-firewall-configuration-and-ssh-hardening.md)                   | Linux security          | UFW, firewall rules, SSH keys, authentication hardening   |
+| [Lab 05 – Windows IT Support and Troubleshooting](https://github.com/ibtesam5d/IT-Support-Portfolio/blob/main/05-Windows-IT-Support/lab-05-windows-it-support-and-troubleshooting.md)            | Windows troubleshooting | Event Viewer, PowerShell, services, network diagnostics   |
 
 ## 🔐 Additional Cybersecurity Projects
 
