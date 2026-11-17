@@ -32,7 +32,7 @@ These practical labs demonstrate my hands-on learning in system administration, 
 
 | Lab                                                                                  | Focus Areas             | Skills Demonstrated                                       |
 | ------------------------------------------------------------------------------------ | ----------------------- | --------------------------------------------------------- |
-| [Lab 01 – DNS Troubleshooting and SSH Remote Administration](YOUR-IT-PORTFOLIO-LINK) | Linux, DNS, SSH         | DNS diagnostics, packet inspection, remote access         |
+| [Lab 01 – DNS Troubleshooting and SSH Remote Administration](https://github.com/ibtesam5d/IT-Support-Portfolio/blob/main/01-Linux-DNS-SSH/lab-01-dns-and-ssh.md) | Linux, DNS, SSH         | DNS diagnostics, packet inspection, remote access         |
 | [Lab 02 – Windows Network Diagnostics](YOUR-IT-PORTFOLIO-LINK)                       | Windows networking      | PowerShell, DNS, TCP/IP, routing diagnostics              |
 | [Lab 03 – Windows System Monitoring](YOUR-IT-PORTFOLIO-LINK)                         | Windows support         | Resource monitoring, process analysis, service management |
 | [Lab 04 – Linux Firewall and SSH Security](YOUR-IT-PORTFOLIO-LINK)                   | Linux security          | UFW, firewall rules, SSH keys, authentication hardening   |
